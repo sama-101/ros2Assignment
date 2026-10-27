@@ -1,0 +1,6 @@
+mechatronics_interfaces/TargetPose target_pose
+---
+bool success
+string message
+---
+float64 distance_remaining
